@@ -1,0 +1,21 @@
+------鲁大师 Build V5.15.18.1010------
+
+电脑型号: 惠普 OMEN by HP Laptop 15-dc0xxx 笔记本电脑
+操作系统: Windows 10 64位
+
+  处理器: 英特尔 Core i7-8750H @ 2.20GHz 六核
+    主板: 惠普 84DA
+    内存: 8 GB ( 金士顿 DDR4 2667MHz )
+  主硬盘: 建兴 NVMe CA1-8D128 ( 128 GB / 固态硬盘 )
+    显卡: Nvidia GeForce GTX 1050 Ti ( 4 GB )
+  显示器: LG LGD05C0
+    声卡: 瑞昱  @ 英特尔 High Definition Audio 控制器
+    网卡: 英特尔 Wireless-AC 9462
+
+
+
+
+
+mysql：gxq...@
+
+source tree : 账号 GGBoon 密码：GGBoon...
